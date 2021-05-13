@@ -1,0 +1,33 @@
+.div-left {
+    width: 30%
+}
+
+.header {
+    display: flex;
+    color: green;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    font-size: large;
+    margin: 0 auto;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+.tr {
+    background-color: orange;
+}
